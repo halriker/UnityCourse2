@@ -239,7 +239,8 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 9.024
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: d9bb203df821eec40b54e4ff76f5393f, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &268392238
@@ -331,7 +332,8 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 9.024
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: d9bb203df821eec40b54e4ff76f5393f, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &858767587
@@ -377,7 +379,8 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 9.024
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: d9bb203df821eec40b54e4ff76f5393f, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1012307008
@@ -472,6 +475,22 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ec5c39dc8555f2549876f6cdde781db5, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1153434400 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1350436422937686, guid: d9bb203df821eec40b54e4ff76f5393f,
+    type: 2}
+  m_PrefabInternal: {fileID: 852609394}
+--- !u!114 &1153434405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1153434400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b13d05301e2aae479372193dc534910, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1224146996
 Prefab:
   m_ObjectHideFlags: 0
@@ -569,7 +588,8 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 9.024
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: d9bb203df821eec40b54e4ff76f5393f, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &1546438780
@@ -684,7 +704,8 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 9.024
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: d9bb203df821eec40b54e4ff76f5393f, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1748865595
